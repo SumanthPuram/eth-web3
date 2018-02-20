@@ -1,0 +1,11 @@
+{
+  "name": "eth-voting-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sumanth",
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.4.20",
+    "web3": "^1.0.0-beta.30"
+  }
+}
